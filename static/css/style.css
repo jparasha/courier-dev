@@ -14,7 +14,7 @@
 
 @font-face {
 	font-family: Cuprum;
-	src: url(/static/fonts/Cuprum-Bold.ttf), url(/static/fonts/Cuprum-Regular.ttf) format('ttf')
+	src: url(../fonts/Cuprum-Bold.ttf), url(../fonts/Cuprum-Regular.ttf) format('ttf')
 }
 
 @media (max-width:600px) {
