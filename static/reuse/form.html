@@ -11,7 +11,7 @@
 							var out='';
                             $(document).ready(function(){
                                 $('input[type="file"]').change(function(e){
-                                    var fileName = e.target.files[0].name;
+                                    out = e.target.files[0].name;
                                 });
                           
 							inp.innerHTML=out;
